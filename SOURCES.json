@@ -1,0 +1,86 @@
+{
+  "id": "moscow-sample",
+  "bounds": [
+    37.575,
+    55.725,
+    37.72,
+    55.825
+  ],
+  "map": {
+    "source": "https://build.protomaps.com/20261008.pmtiles",
+    "osm_timestamp": "2026-10-08T04:00:00Z",
+    "sha256": "a99d55bc44b5e67b3c12f7366002247b186c35c5a9d8d156782e2f41fc0289f2"
+  },
+  "places": {
+    "data_file": "places-864eeeb3e94917d1.sqlite",
+    "bytes": 22929408,
+    "sha256": "864eeeb3e94917d1fef3d3977a6eb95ed8a85abe3d4770d404bb0e036ee9ef85",
+    "schema_version": 1,
+    "source": "OSM",
+    "count": 56110,
+    "region_id": "moscow-sample",
+    "bounds": [
+      37.575,
+      55.725,
+      37.72,
+      55.825
+    ],
+    "source_timestamp": "2026-10-09T00:30:14Z",
+    "source_sha256": "1e373d80a6c6b5ed1163159c9e692d301cef9efc36cf124799b34a2bd7146ba7",
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://www.openstreetmap.org/copyright"
+  },
+  "fonts": {
+    "font": "Noto Sans Regular",
+    "license": "OFL-1.1",
+    "files": [
+      {
+        "path": "Noto Sans Regular/0-255.pbf",
+        "url": "https://raw.githubusercontent.com/maplibre/demotiles/601ae60796ceceda2cbd2ed3d2ea92d17a84be4b/font/Noto%20Sans%20Regular/0-255.pbf",
+        "sha256": "ef1f38a3f1978591e846e9eaddf8a54f7047f546fc6aaed7872cc53151a5de78"
+      },
+      {
+        "path": "Noto Sans Regular/256-511.pbf",
+        "url": "https://raw.githubusercontent.com/maplibre/demotiles/601ae60796ceceda2cbd2ed3d2ea92d17a84be4b/font/Noto%20Sans%20Regular/256-511.pbf",
+        "sha256": "992557f9e2574cfb9a75e16c7b52832578849772b7c9a6e480d6213fb008fe5d"
+      },
+      {
+        "path": "Noto Sans Regular/512-767.pbf",
+        "url": "https://raw.githubusercontent.com/maplibre/demotiles/601ae60796ceceda2cbd2ed3d2ea92d17a84be4b/font/Noto%20Sans%20Regular/512-767.pbf",
+        "sha256": "a4c5cdf9623cb0bf7e9c6b0e8be4bf38b524bc29819dd2276c8ca63d5e43dd21"
+      },
+      {
+        "path": "Noto Sans Regular/768-1023.pbf",
+        "url": "https://raw.githubusercontent.com/maplibre/demotiles/601ae60796ceceda2cbd2ed3d2ea92d17a84be4b/font/Noto%20Sans%20Regular/768-1023.pbf",
+        "sha256": "6e27cdd6edce5b11c469a24b333ecefc0d4b082491b71d6924ce0be6eeba71c3"
+      },
+      {
+        "path": "Noto Sans Regular/1024-1279.pbf",
+        "url": "https://raw.githubusercontent.com/maplibre/demotiles/601ae60796ceceda2cbd2ed3d2ea92d17a84be4b/font/Noto%20Sans%20Regular/1024-1279.pbf",
+        "sha256": "834adb7f3ea9944ea530214841ee098e5482e85180f14df85036939261e0ffbb"
+      },
+      {
+        "path": "Noto Sans Regular/1280-1535.pbf",
+        "url": "https://raw.githubusercontent.com/maplibre/demotiles/601ae60796ceceda2cbd2ed3d2ea92d17a84be4b/font/Noto%20Sans%20Regular/1280-1535.pbf",
+        "sha256": "0f4f3f76dd76836efbcdf3c35219449aa46defb1d3e8e0f9b51153a539e64454"
+      },
+      {
+        "path": "Noto Sans Regular/8192-8447.pbf",
+        "url": "https://raw.githubusercontent.com/maplibre/demotiles/601ae60796ceceda2cbd2ed3d2ea92d17a84be4b/font/Noto%20Sans%20Regular/8192-8447.pbf",
+        "sha256": "f061e5b4e42e5925228534d8822b423a029569263db09f5ce44573600d45295f"
+      },
+      {
+        "path": "Noto Sans Regular/8448-8703.pbf",
+        "url": "https://raw.githubusercontent.com/maplibre/demotiles/601ae60796ceceda2cbd2ed3d2ea92d17a84be4b/font/Noto%20Sans%20Regular/8448-8703.pbf",
+        "sha256": "9e333bdeee3c44c429fb7f6911b3c1602a69402d541908832282d5eb3a467003"
+      },
+      {
+        "path": "OFL.txt",
+        "url": "https://raw.githubusercontent.com/notofonts/noto-fonts/main/LICENSE",
+        "sha256": "0dab92d0544f7b233403f14b84a663bdbfa746982eda629e7f4f9ffe1b036feb"
+      }
+    ]
+  },
+  "address_policy": "Direct street+house, containing addressed building, otherwise explicitly labelled nearby known house with distance. No online geocoding."
+}
