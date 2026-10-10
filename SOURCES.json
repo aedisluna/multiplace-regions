@@ -12,9 +12,9 @@
     "sha256": "a99d55bc44b5e67b3c12f7366002247b186c35c5a9d8d156782e2f41fc0289f2"
   },
   "places": {
-    "data_file": "places-13e761e644c07914.sqlite",
+    "data_file": "places-6d55f955486648f6.sqlite",
     "bytes": 22933504,
-    "sha256": "13e761e644c079146e729a2b8f9b548ef79067e38bbf2bafc1b5b79f70df1994",
+    "sha256": "6d55f955486648f6b25a431a26b8a028ffd8628c805e89367fba3b06a9ee33f8",
     "schema_version": 1,
     "source": "OSM+OFFICIAL",
     "count": 56110,
