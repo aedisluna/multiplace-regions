@@ -1,0 +1,8 @@
+*.mpregion
+*.pmtiles
+*.sqlite
+*.osm.pbf
+*.zip
+.env*
+*.jks
+*.keystore
