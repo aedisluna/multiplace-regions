@@ -11,9 +11,9 @@
         55.825
       ],
       "poi_count": 56110,
-      "bytes": 19445309,
-      "sha256": "5b9629c2b46856b7e3914a318121b5ab8d8727d20b30cf07b5be13b7eda7bfa8",
-      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/moscow-sample-2026-10-10/moscow-sample-2026-10-10.mpregion",
+      "bytes": 19445364,
+      "sha256": "4c4655e42f7e5ea0d25ee05f5678264254ddd6d99295b2bb0ebd5cde5f3fa779",
+      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/moscow-sample-2026-10-10-r2/moscow-sample-2026-10-10-r2.mpregion",
       "poi_timestamp": "2026-10-09T00:30:14Z"
     }
   ]
