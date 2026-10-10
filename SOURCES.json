@@ -12,11 +12,11 @@
     "sha256": "a99d55bc44b5e67b3c12f7366002247b186c35c5a9d8d156782e2f41fc0289f2"
   },
   "places": {
-    "data_file": "places-864eeeb3e94917d1.sqlite",
-    "bytes": 22929408,
-    "sha256": "864eeeb3e94917d1fef3d3977a6eb95ed8a85abe3d4770d404bb0e036ee9ef85",
+    "data_file": "places-13e761e644c07914.sqlite",
+    "bytes": 22933504,
+    "sha256": "13e761e644c079146e729a2b8f9b548ef79067e38bbf2bafc1b5b79f70df1994",
     "schema_version": 1,
-    "source": "OSM",
+    "source": "OSM+OFFICIAL",
     "count": 56110,
     "region_id": "moscow-sample",
     "bounds": [
@@ -29,7 +29,38 @@
     "source_sha256": "1e373d80a6c6b5ed1163159c9e692d301cef9efc36cf124799b34a2bd7146ba7",
     "attribution": "© OpenStreetMap contributors",
     "license": "ODbL-1.0",
-    "license_url": "https://www.openstreetmap.org/copyright"
+    "license_url": "https://www.openstreetmap.org/copyright",
+    "corrections": {
+      "additions": [
+        {
+          "address": "Москва, шоссе Энтузиастов, 12 к2",
+          "brand": "Четыре Лапы",
+          "category": "зоомагазин",
+          "id": "official:fourpaws:r547",
+          "latitude": 55.747584,
+          "longitude": 37.706765,
+          "name": "Четыре Лапы",
+          "source_url": "https://4lapy.ru/shops/r547/",
+          "verified_on": "2026-10-10"
+        }
+      ],
+      "closed": [
+        {
+          "id": "osm:node:3813447669",
+          "latitude": 55.7478536,
+          "longitude": 37.7067407,
+          "name": "Леонардо",
+          "source_url": "https://leonardo.ru/shop/msk_gorod/",
+          "verified_on": "2026-10-10"
+        }
+      ],
+      "format_version": 1,
+      "sha256": "5c23fe7c4c1186e66bc9ded6264e95e44e775eb2bf0bd7ba9bea95b70bd6b540"
+    },
+    "source_counts": {
+      "OFFICIAL": 1,
+      "OSM": 56109
+    }
   },
   "fonts": {
     "font": "Noto Sans Regular",
