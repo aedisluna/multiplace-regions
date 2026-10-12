@@ -12,9 +12,9 @@
     "sha256": "c794b71ef9f1932a79c5238d8f3551d9930a644c8fbdc80257eafe0347ba0c59"
   },
   "places": {
-    "data_file": "places-63d6df2621c0cb32.sqlite",
-    "bytes": 153686016,
-    "sha256": "63d6df2621c0cb3294b8f7f19fdd8f33605637c131111d1ef8b49475d0fff295",
+    "data_file": "places-80427dc496cfc089.sqlite",
+    "bytes": 159371264,
+    "sha256": "80427dc496cfc089e94a61c1b99a8e07512204bdeff73c334a468c6a5cf66b31",
     "schema_version": 1,
     "source": "OSM+OFFICIAL",
     "count": 383366,
@@ -115,9 +115,9 @@
       "attribution_url": "https://www.openstreetmap.org/copyright"
     },
     "places": {
-      "data_file": "places-6d55f955486648f6.sqlite",
-      "bytes": 22933504,
-      "sha256": "6d55f955486648f6b25a431a26b8a028ffd8628c805e89367fba3b06a9ee33f8",
+      "data_file": "places-a78f7afec016e9ba.sqlite",
+      "bytes": 24039424,
+      "sha256": "a78f7afec016e9ba4f229fe8c859405422a5abcc1b4bad9ed41f1e69578a0b33",
       "schema_version": 1,
       "source": "OSM+OFFICIAL",
       "count": 56110,
@@ -247,5 +247,8 @@
       }
     ]
   },
-  "address_policy": "Direct street+house, containing addressed building, otherwise explicitly labelled nearby known house with distance. No online geocoding."
+  "address_policy": "Direct street+house, containing addressed building, otherwise explicitly labelled nearby known house with distance. No online geocoding.",
+  "classification_policy": "specific-before-fallback-v2",
+  "taxonomy_version": "2026-10-12",
+  "classification_only_update": true
 }
