@@ -1,8 +1,43 @@
+# Region payloads are published as release assets.
 *.mpregion
 *.pmtiles
 *.sqlite
-*.osm.pbf
+*.sqlite3
+*.db
+*.pbf
 *.zip
-.env*
+*.apk
+*.aab
+
+# Secrets and local settings.
+.env
+.env.*
 *.jks
 *.keystore
+*.pem
+*.key
+*.p12
+*.pfx
+local.properties
+keystore.properties
+secrets.properties
+credentials.json
+google-services.json
+
+# Build/download caches and private workspace state.
+**/build/
+.downloads/
+__pycache__/
+.venv/
+venv/
+.idea/
+.vscode/
+.gradle/
+.gradle-user-home/
+.android-sdk/
+.android-user-home/
+.aws/
+.ssh/
+.codex/
+.agents/
+.codex-remote-attachments/

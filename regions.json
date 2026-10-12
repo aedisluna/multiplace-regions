@@ -11,9 +11,9 @@
         56.24
       ],
       "poi_count": 383366,
-      "bytes": 233887729,
-      "sha256": "154056278b3a799ca6c434804138c5d8b9568e8bd5d23f9acb8eca50d61eb933",
-      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-categories-2026-10-12/moscow-ckad-2026-10-12-categories.mpregion",
+      "bytes": 233889920,
+      "sha256": "4eb45b0166d7513c41b4388bd2a81166100d2ff9af991e72de0d5f63e89fe2bc",
+      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-addresses-2026-10-12/moscow-ckad-2026-10-12-addresses.mpregion",
       "poi_timestamp": "2026-10-09T00:28:06Z"
     },
     {
@@ -26,9 +26,9 @@
         55.825
       ],
       "poi_count": 56110,
-      "bytes": 19592939,
-      "sha256": "88415095b47484ffbaced12f54882f7e640a9251ae08560d0a3a1b36a9975326",
-      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-categories-2026-10-12/moscow-sample-2026-10-12-categories.mpregion",
+      "bytes": 19593078,
+      "sha256": "67261e098a9df9f26e069a82fb8015518e1deb4b6a334608c800dabba1861a82",
+      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-addresses-2026-10-12/moscow-sample-2026-10-12-addresses.mpregion",
       "poi_timestamp": "2026-10-09T00:30:14Z"
     }
   ]

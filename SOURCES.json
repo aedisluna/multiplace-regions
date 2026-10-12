@@ -12,9 +12,9 @@
     "sha256": "c794b71ef9f1932a79c5238d8f3551d9930a644c8fbdc80257eafe0347ba0c59"
   },
   "places": {
-    "data_file": "places-80427dc496cfc089.sqlite",
+    "data_file": "places-1b6a70ac22ff43c8.sqlite",
     "bytes": 159371264,
-    "sha256": "80427dc496cfc089e94a61c1b99a8e07512204bdeff73c334a468c6a5cf66b31",
+    "sha256": "1b6a70ac22ff43c87af85f8a64be228ed0082b045922334ee37cc88ab4a4d2ed",
     "schema_version": 1,
     "source": "OSM+OFFICIAL",
     "count": 383366,
@@ -115,9 +115,9 @@
       "attribution_url": "https://www.openstreetmap.org/copyright"
     },
     "places": {
-      "data_file": "places-a78f7afec016e9ba.sqlite",
+      "data_file": "places-7f2390c0e3f4e092.sqlite",
       "bytes": 24039424,
-      "sha256": "a78f7afec016e9ba4f229fe8c859405422a5abcc1b4bad9ed41f1e69578a0b33",
+      "sha256": "7f2390c0e3f4e092e90856730a7dd0a0a20c1621a3629436b9fe51d99d2c6096",
       "schema_version": 1,
       "source": "OSM+OFFICIAL",
       "count": 56110,
@@ -181,6 +181,13 @@
       "source_timestamp": "2026-10-09T00:30:14Z",
       "font": "Noto Sans Regular",
       "font_license": "OFL-1.1"
+    },
+    "address_enrichment": {
+      "importer_version": 3,
+      "policy": "direct-full-building-nearby-v2",
+      "own_full_count": 26,
+      "restored_source_strings": 25,
+      "independently_verified": false
     }
   },
   "osm_inputs": [
@@ -250,5 +257,12 @@
   "address_policy": "Direct street+house, containing addressed building, otherwise explicitly labelled nearby known house with distance. No online geocoding.",
   "classification_policy": "specific-before-fallback-v2",
   "taxonomy_version": "2026-10-12",
-  "classification_only_update": true
+  "classification_only_update": true,
+  "address_enrichment": {
+    "importer_version": 3,
+    "policy": "direct-full-building-nearby-v2",
+    "own_full_count": 245,
+    "restored_source_strings": 242,
+    "independently_verified": false
+  }
 }
