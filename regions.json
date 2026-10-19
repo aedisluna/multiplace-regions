@@ -2,28 +2,6 @@
   "format_version": 1,
   "regions": [
     {
-      "id": "moscow-ckad",
-      "label": "Москва и Подмосковье · до ЦКАД",
-      "bounds": [
-        36.82,
-        55.28,
-        38.62,
-        56.24
-      ],
-      "poi_count": 383366,
-      "bytes": 233889920,
-      "sha256": "4eb45b0166d7513c41b4388bd2a81166100d2ff9af991e72de0d5f63e89fe2bc",
-      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-addresses-2026-10-12/moscow-ckad-2026-10-12-addresses.mpregion",
-      "poi_timestamp": "2026-10-09T00:28:06Z",
-      "version": {
-        "manifest_sha256": "0302dc15d20261cc9cd5ba84d5db819a02e7a7099f2a71405c1332c07d35fe36",
-        "map_sha256": "c794b71ef9f1932a79c5238d8f3551d9930a644c8fbdc80257eafe0347ba0c59",
-        "places_sha256": "1b6a70ac22ff43c87af85f8a64be228ed0082b045922334ee37cc88ab4a4d2ed",
-        "style_sha256": "12e0c85ab748bedd84eb691e93ded314021466c2228b74e067c6d289e8d1890d",
-        "labels_sha256": "3a72d43e2a120801de256d0296bb1cd3492cac57aff33e3a8239db3cf0b744f1"
-      }
-    },
-    {
       "id": "moscow-sample",
       "label": "Москва · тестовый район",
       "bounds": [
@@ -32,17 +10,39 @@
         37.72,
         55.825
       ],
-      "poi_count": 56110,
-      "bytes": 19593078,
-      "sha256": "67261e098a9df9f26e069a82fb8015518e1deb4b6a334608c800dabba1861a82",
-      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-addresses-2026-10-12/moscow-sample-2026-10-12-addresses.mpregion",
+      "poi_count": 56101,
+      "bytes": 19596489,
+      "sha256": "76e6dbaf8dd80e36d4765130e2f4440322f9169a3741e787ce43408c69163535",
+      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-infrastructure-2026-10-18/moscow-sample-2026-10-18-poi.mpregion",
       "poi_timestamp": "2026-10-09T00:30:14Z",
       "version": {
-        "manifest_sha256": "211a57fd54d325a611299a54a5dc5d2fe65c859226e3ea6133485129766e6a84",
+        "manifest_sha256": "8e2077e1dd52414c0ef3a18d9d7a6c809aceec2046474c46730674b6c0474a2f",
         "map_sha256": "a99d55bc44b5e67b3c12f7366002247b186c35c5a9d8d156782e2f41fc0289f2",
-        "places_sha256": "7f2390c0e3f4e092e90856730a7dd0a0a20c1621a3629436b9fe51d99d2c6096",
+        "places_sha256": "071b99917e292c7f969cacdddbd4eec4b479e3b3be4f7be18bcdcaeca1c532c7",
         "style_sha256": "a8f5c434bbb304a2486899fbf3c2d5e535e1b67573a22c4586caa430130957d1",
         "labels_sha256": "ffc20375dbcb2d8a8b1fb0d0defd9bdd8fe3fcd9da489cc5ab0779723956831e"
+      }
+    },
+    {
+      "id": "moscow-ckad",
+      "label": "Москва и Подмосковье · до ЦКАД",
+      "bounds": [
+        36.82,
+        55.28,
+        38.62,
+        56.24
+      ],
+      "poi_count": 383356,
+      "bytes": 233850630,
+      "sha256": "545f977402627e385e8ffa925f6750f01f32c44b618a3a20efffacb2fb0b3308",
+      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-infrastructure-2026-10-18/moscow-ckad-2026-10-18-poi.mpregion",
+      "poi_timestamp": "2026-10-09T00:28:06Z",
+      "version": {
+        "manifest_sha256": "5878a420852ce4c6149842147618464cfbc5bff0601b12510767d1ebf877bb32",
+        "map_sha256": "c794b71ef9f1932a79c5238d8f3551d9930a644c8fbdc80257eafe0347ba0c59",
+        "places_sha256": "d79024b028e9935eeaf7003308bb9bbb2cbb19817ac05be44ee5e544edc1e623",
+        "style_sha256": "12e0c85ab748bedd84eb691e93ded314021466c2228b74e067c6d289e8d1890d",
+        "labels_sha256": "3a72d43e2a120801de256d0296bb1cd3492cac57aff33e3a8239db3cf0b744f1"
       }
     }
   ]

@@ -12,12 +12,12 @@
     "sha256": "c794b71ef9f1932a79c5238d8f3551d9930a644c8fbdc80257eafe0347ba0c59"
   },
   "places": {
-    "data_file": "places-1b6a70ac22ff43c8.sqlite",
-    "bytes": 159371264,
-    "sha256": "1b6a70ac22ff43c87af85f8a64be228ed0082b045922334ee37cc88ab4a4d2ed",
+    "data_file": "places-d79024b028e9935e.sqlite",
+    "bytes": 159367168,
+    "sha256": "d79024b028e9935eeaf7003308bb9bbb2cbb19817ac05be44ee5e544edc1e623",
     "schema_version": 1,
     "source": "OSM+OFFICIAL",
-    "count": 383366,
+    "count": 383356,
     "region_id": "moscow-ckad",
     "bounds": [
       36.82,
@@ -59,7 +59,7 @@
     },
     "source_counts": {
       "OFFICIAL": 1,
-      "OSM": 383365
+      "OSM": 383355
     }
   },
   "labels": {
@@ -115,12 +115,12 @@
       "attribution_url": "https://www.openstreetmap.org/copyright"
     },
     "places": {
-      "data_file": "places-7f2390c0e3f4e092.sqlite",
+      "data_file": "places-071b99917e292c7f.sqlite",
       "bytes": 24039424,
-      "sha256": "7f2390c0e3f4e092e90856730a7dd0a0a20c1621a3629436b9fe51d99d2c6096",
+      "sha256": "071b99917e292c7f969cacdddbd4eec4b479e3b3be4f7be18bcdcaeca1c532c7",
       "schema_version": 1,
       "source": "OSM+OFFICIAL",
-      "count": 56110,
+      "count": 56101,
       "region_id": "moscow-sample",
       "bounds": [
         37.575,
@@ -162,7 +162,7 @@
       },
       "source_counts": {
         "OFFICIAL": 1,
-        "OSM": 56109
+        "OSM": 56100
       }
     },
     "labels": {
@@ -254,8 +254,8 @@
       }
     ]
   },
-  "address_policy": "Direct street+house, containing addressed building, otherwise explicitly labelled nearby known house with distance. No online geocoding.",
-  "classification_policy": "specific-before-fallback-v2",
+  "address_policy": "Direct street+house, own non-empty full address, containing addressed building, otherwise explicitly labelled nearby known house with distance. No online geocoding.",
+  "classification_policy": "specific-before-infrastructure-fallback-v3",
   "taxonomy_version": "2026-10-12",
   "classification_only_update": true,
   "address_enrichment": {
@@ -264,5 +264,18 @@
     "own_full_count": 245,
     "restored_source_strings": 242,
     "independently_verified": false
+  },
+  "release": {
+    "tag": "poi-infrastructure-2026-10-18",
+    "prepared_on": "2026-10-18",
+    "publication_on": "2026-10-19",
+    "source_snapshots_unchanged": true,
+    "excluded_flagpole_fallback_records": {
+      "moscow-sample": 9,
+      "moscow-ckad": 10
+    },
+    "all_other_poi_fields_unchanged": true,
+    "map_style_labels_unchanged": true,
+    "poi_completeness_and_operating_status_verified": false
   }
 }
