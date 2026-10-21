@@ -11,12 +11,12 @@
         55.825
       ],
       "poi_count": 56101,
-      "bytes": 19596489,
-      "sha256": "76e6dbaf8dd80e36d4765130e2f4440322f9169a3741e787ce43408c69163535",
-      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-infrastructure-2026-10-18/moscow-sample-2026-10-18-poi.mpregion",
+      "bytes": 19596503,
+      "sha256": "e9b60866231ae1779dd4851afa0c88c10e2222d1ac04aff24c47960e2bf8aa1f",
+      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/update-check-2026-10-21/moscow-sample-2026-10-21-update-check.mpregion",
       "poi_timestamp": "2026-10-09T00:30:14Z",
       "version": {
-        "manifest_sha256": "8e2077e1dd52414c0ef3a18d9d7a6c809aceec2046474c46730674b6c0474a2f",
+        "manifest_sha256": "77532f7790f7d7698feb7792af224b67ebb520c6ae434c7fe13762ff04931f7a",
         "map_sha256": "a99d55bc44b5e67b3c12f7366002247b186c35c5a9d8d156782e2f41fc0289f2",
         "places_sha256": "071b99917e292c7f969cacdddbd4eec4b479e3b3be4f7be18bcdcaeca1c532c7",
         "style_sha256": "a8f5c434bbb304a2486899fbf3c2d5e535e1b67573a22c4586caa430130957d1",
@@ -33,12 +33,12 @@
         56.24
       ],
       "poi_count": 383356,
-      "bytes": 233850630,
-      "sha256": "545f977402627e385e8ffa925f6750f01f32c44b618a3a20efffacb2fb0b3308",
-      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/poi-infrastructure-2026-10-18/moscow-ckad-2026-10-18-poi.mpregion",
+      "bytes": 233850644,
+      "sha256": "8245a29fabb78d8e6a8e8580d538aed5d4527d6a4d47d63065789cb8d6d8c2cf",
+      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/update-check-2026-10-21/moscow-ckad-2026-10-21-update-check.mpregion",
       "poi_timestamp": "2026-10-09T00:28:06Z",
       "version": {
-        "manifest_sha256": "5878a420852ce4c6149842147618464cfbc5bff0601b12510767d1ebf877bb32",
+        "manifest_sha256": "fb0f9efc4b6f905c73437d07cfad3306da75d682ad462a4c3557fb85ce15649b",
         "map_sha256": "c794b71ef9f1932a79c5238d8f3551d9930a644c8fbdc80257eafe0347ba0c59",
         "places_sha256": "d79024b028e9935eeaf7003308bb9bbb2cbb19817ac05be44ee5e544edc1e623",
         "style_sha256": "12e0c85ab748bedd84eb691e93ded314021466c2228b74e067c6d289e8d1890d",

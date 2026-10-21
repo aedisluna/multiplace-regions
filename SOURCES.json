@@ -277,5 +277,33 @@
     "all_other_poi_fields_unchanged": true,
     "map_style_labels_unchanged": true,
     "poi_completeness_and_operating_status_verified": false
+  },
+  "test_delivery": {
+    "release": "update-check-2026-10-21",
+    "purpose": "Update detection and installation check; no map, POI, style, labels, source dates or manifest JSON values changed.",
+    "base_release": "poi-infrastructure-2026-10-18",
+    "change": "Manifest JSON serialization only; valid complete archives and catalog checksums.",
+    "regions": [
+      {
+        "id": "moscow-sample",
+        "bytes": 19596503,
+        "sha256": "e9b60866231ae1779dd4851afa0c88c10e2222d1ac04aff24c47960e2bf8aa1f",
+        "manifest_before": "8e2077e1dd52414c0ef3a18d9d7a6c809aceec2046474c46730674b6c0474a2f",
+        "manifest_after": "77532f7790f7d7698feb7792af224b67ebb520c6ae434c7fe13762ff04931f7a",
+        "component_hashes_unchanged": true,
+        "manifest_json_values_unchanged": true,
+        "poi_count": 56101
+      },
+      {
+        "id": "moscow-ckad",
+        "bytes": 233850644,
+        "sha256": "8245a29fabb78d8e6a8e8580d538aed5d4527d6a4d47d63065789cb8d6d8c2cf",
+        "manifest_before": "5878a420852ce4c6149842147618464cfbc5bff0601b12510767d1ebf877bb32",
+        "manifest_after": "fb0f9efc4b6f905c73437d07cfad3306da75d682ad462a4c3557fb85ce15649b",
+        "component_hashes_unchanged": true,
+        "manifest_json_values_unchanged": true,
+        "poi_count": 383356
+      }
+    ]
   }
 }
