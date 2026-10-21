@@ -11,16 +11,22 @@
         55.825
       ],
       "poi_count": 56101,
-      "bytes": 19596503,
-      "sha256": "e9b60866231ae1779dd4851afa0c88c10e2222d1ac04aff24c47960e2bf8aa1f",
-      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/update-check-2026-10-21/moscow-sample-2026-10-21-update-check.mpregion",
+      "bytes": 19596490,
+      "sha256": "a11c6c2758e03e837d6a4f5ec1f99019bd4e1ca6619f0cab7867e48c0c95445d",
+      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/region-revisions-2026-10-21/moscow-sample-r4-2026-10-21.mpregion",
       "poi_timestamp": "2026-10-09T00:30:14Z",
       "version": {
-        "manifest_sha256": "77532f7790f7d7698feb7792af224b67ebb520c6ae434c7fe13762ff04931f7a",
+        "manifest_sha256": "2f5e9566d24aa0c189c590dde434e90a0037f1bd36ccd3df6a875c9f1926a46d",
         "map_sha256": "a99d55bc44b5e67b3c12f7366002247b186c35c5a9d8d156782e2f41fc0289f2",
         "places_sha256": "071b99917e292c7f969cacdddbd4eec4b479e3b3be4f7be18bcdcaeca1c532c7",
         "style_sha256": "a8f5c434bbb304a2486899fbf3c2d5e535e1b67573a22c4586caa430130957d1",
         "labels_sha256": "ffc20375dbcb2d8a8b1fb0d0defd9bdd8fe3fcd9da489cc5ab0779723956831e"
+      },
+      "revision": 4,
+      "legacy_revisions": {
+        "211a57fd54d325a611299a54a5dc5d2fe65c859226e3ea6133485129766e6a84": 1,
+        "8e2077e1dd52414c0ef3a18d9d7a6c809aceec2046474c46730674b6c0474a2f": 2,
+        "77532f7790f7d7698feb7792af224b67ebb520c6ae434c7fe13762ff04931f7a": 3
       }
     },
     {
@@ -33,16 +39,22 @@
         56.24
       ],
       "poi_count": 383356,
-      "bytes": 233850644,
-      "sha256": "8245a29fabb78d8e6a8e8580d538aed5d4527d6a4d47d63065789cb8d6d8c2cf",
-      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/update-check-2026-10-21/moscow-ckad-2026-10-21-update-check.mpregion",
+      "bytes": 233850626,
+      "sha256": "c8400fdb1cd1ad1ccbe32b7d56857103a876c61b206c475fc58a516daf093dd9",
+      "url": "https://github.com/aedisluna/multiplace-regions/releases/download/region-revisions-2026-10-21/moscow-ckad-r4-2026-10-21.mpregion",
       "poi_timestamp": "2026-10-09T00:28:06Z",
       "version": {
-        "manifest_sha256": "fb0f9efc4b6f905c73437d07cfad3306da75d682ad462a4c3557fb85ce15649b",
+        "manifest_sha256": "3093498b282784927b995c488f31a6e2055b4b2d0fa6d490fe055c5a23808b5c",
         "map_sha256": "c794b71ef9f1932a79c5238d8f3551d9930a644c8fbdc80257eafe0347ba0c59",
         "places_sha256": "d79024b028e9935eeaf7003308bb9bbb2cbb19817ac05be44ee5e544edc1e623",
         "style_sha256": "12e0c85ab748bedd84eb691e93ded314021466c2228b74e067c6d289e8d1890d",
         "labels_sha256": "3a72d43e2a120801de256d0296bb1cd3492cac57aff33e3a8239db3cf0b744f1"
+      },
+      "revision": 4,
+      "legacy_revisions": {
+        "0302dc15d20261cc9cd5ba84d5db819a02e7a7099f2a71405c1332c07d35fe36": 1,
+        "5878a420852ce4c6149842147618464cfbc5bff0601b12510767d1ebf877bb32": 2,
+        "fb0f9efc4b6f905c73437d07cfad3306da75d682ad462a4c3557fb85ce15649b": 3
       }
     }
   ]
