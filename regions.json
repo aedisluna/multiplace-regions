@@ -27,7 +27,9 @@
         "211a57fd54d325a611299a54a5dc5d2fe65c859226e3ea6133485129766e6a84": 1,
         "8e2077e1dd52414c0ef3a18d9d7a6c809aceec2046474c46730674b6c0474a2f": 2,
         "77532f7790f7d7698feb7792af224b67ebb520c6ae434c7fe13762ff04931f7a": 3
-      }
+      },
+      "map_timestamp": "2026-10-08T04:00:00Z",
+      "installed_bytes": 40386417
     },
     {
       "id": "moscow-ckad",
@@ -55,7 +57,9 @@
         "0302dc15d20261cc9cd5ba84d5db819a02e7a7099f2a71405c1332c07d35fe36": 1,
         "5878a420852ce4c6149842147618464cfbc5bff0601b12510767d1ebf877bb32": 2,
         "fb0f9efc4b6f905c73437d07cfad3306da75d682ad462a4c3557fb85ce15649b": 3
-      }
+      },
+      "map_timestamp": "2026-10-08T04:00:00Z",
+      "installed_bytes": 356204306
     }
   ]
 }
